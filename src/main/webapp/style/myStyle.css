@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+	margin: auto;
+}
+
+h1, h2 {
+	font-size:50px;
+	color: #369;
+}
+
+a {
+	font-size:30px;
+}
+a:link {color: blue; text-decoration:none;} 
+a:visited {color:purple;text-decoration:none;} 
+a:hover {color: red; text-decoration:underline;} 
+
+pre{
+	font-family: monospace;
+	font-size:30px;
+	text-align: Left";
+}
+
+table 
+{
+	font-size:30px;
+	border:"0"; 
+	margin: auto; 
+	text-align: Left";
+}
+
+.submit{
+	font-size:30px;
+	 width: 160px;
+     height: 50px;
+     margin-top: 40px;
+     border: 2px black solid;
+     border-radius: 25px;
+}
+
+.txt{
+	font-size:30px;
+	 width: 160px;
+}
